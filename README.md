@@ -4,6 +4,7 @@
 test cases that not passed:
 ## 1:
 5
+
 13 9
 10 4 20 19 9 4 20 14 15 10 9 15 8 
 17 7
